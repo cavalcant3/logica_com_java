@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java;
+package com.cavalcante.logica.java.LogicaDevDojo;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
