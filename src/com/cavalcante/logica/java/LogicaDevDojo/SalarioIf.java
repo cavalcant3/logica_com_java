@@ -7,7 +7,7 @@ public class SalarioIf {
     public static void main(String[] args) {
         float salario;
         double resultado;
-        
+
         Scanner entrada = new Scanner(System.in);
         System.out.println("informe seu salário:");
         salario = entrada.nextFloat();

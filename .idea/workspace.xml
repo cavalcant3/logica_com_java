@@ -86,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SalarioIf">
+  <component name="RunManager" selected="Application.ImparOuPar">
     <configuration name="Condicoanais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Condicoanais" />
       <module name="logica_com_java" />
@@ -100,12 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.Main" />
+    <configuration name="ImparOuPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.ImparOuPar" />
       <module name="logica_com_java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImparOuPar" />
         <item itemvalue="Application.SalarioIf" />
         <item itemvalue="Application.Condicoanais" />
         <item itemvalue="Application.TestandoVariaveis" />
         <item itemvalue="Application.Porcentagem" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
