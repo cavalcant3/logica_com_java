@@ -6,7 +6,7 @@ public class ImparOuPar {
     public static void main(String[] args) {
 
         int numero;
-        
+
         Scanner entrada = new Scanner (System.in);
         System.out.println("informe o número");
         numero = entrada.nextInt();

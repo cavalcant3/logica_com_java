@@ -86,7 +86,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ImparOuPar">
+  <component name="RunManager" selected="Application.ClassificacaoDeParticipantes">
+    <configuration name="ClassificacaoDeParticipantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.ClassificacaoDeParticipantes" />
+      <module name="logica_com_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Condicoanais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Condicoanais" />
       <module name="logica_com_java" />
@@ -113,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Porcentagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Porcentagem" />
+    <configuration name="ImpostoOpLogico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.ImpostoOpLogico" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
@@ -139,26 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestandoVariaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.TestandoVariaveis" />
-      <module name="logica_com_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassificacaoDeParticipantes" />
+        <item itemvalue="Application.ImpostoOpLogico" />
         <item itemvalue="Application.ImparOuPar" />
         <item itemvalue="Application.SalarioIf" />
         <item itemvalue="Application.Condicoanais" />
-        <item itemvalue="Application.TestandoVariaveis" />
-        <item itemvalue="Application.Porcentagem" />
       </list>
     </recent_temporary>
   </component>
