@@ -86,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Login">
+  <component name="RunManager" selected="Application.SistemaDeAlistamento">
     <configuration name="ClassificacaoDeParticipantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.ClassificacaoDeParticipantes" />
       <module name="logica_com_java" />
@@ -139,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalarioIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.SalarioIf" />
+    <configuration name="SistemaDeAlistamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.SistemaDeAlistamento" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemaDeAlistamento" />
         <item itemvalue="Application.Login" />
         <item itemvalue="Application.ClassificacaoDeParticipantes" />
         <item itemvalue="Application.ImpostoOpLogico" />
         <item itemvalue="Application.ImparOuPar" />
-        <item itemvalue="Application.SalarioIf" />
       </list>
     </recent_temporary>
   </component>
