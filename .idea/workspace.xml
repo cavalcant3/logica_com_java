@@ -86,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DiaDaSemana">
+  <component name="RunManager" selected="Application.PorcentagemDeJuros">
     <configuration name="ClassificacaoDeParticipantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.ClassificacaoDeParticipantes" />
       <module name="logica_com_java" />
@@ -113,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImpostoOpLogico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.ImpostoOpLogico" />
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Login" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Login" />
+    <configuration name="PorcentagemDeJuros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.PorcentagemDeJuros" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.*" />
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PorcentagemDeJuros" />
         <item itemvalue="Application.DiaDaSemana" />
         <item itemvalue="Application.SistemaDeAlistamento" />
         <item itemvalue="Application.Login" />
         <item itemvalue="Application.ClassificacaoDeParticipantes" />
-        <item itemvalue="Application.ImpostoOpLogico" />
       </list>
     </recent_temporary>
   </component>
