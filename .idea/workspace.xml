@@ -86,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LacoDeRepeticao">
+  <component name="RunManager" selected="Application.MenuNavegavel">
     <configuration name="DiaDaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.DiaDaSemana" />
       <module name="logica_com_java" />
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Login" />
+    <configuration name="MenuNavegavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.MenuNavegavel" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.*" />
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuNavegavel" />
         <item itemvalue="Application.LacoDeRepeticao" />
         <item itemvalue="Application.PorcentagemDeJuros" />
         <item itemvalue="Application.DiaDaSemana" />
         <item itemvalue="Application.SistemaDeAlistamento" />
-        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
