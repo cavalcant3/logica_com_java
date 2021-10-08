@@ -23,6 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -86,26 +94,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Login">
-    <configuration name="DiaDaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.DiaDaSemana" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RunManager" selected="Application.Tabuada1a10">
+    <configuration name="ApresentarQuadrados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.For.ApresentarQuadrados" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LacoDeRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.LacoDeRepeticao" />
-      <module name="logica_com_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.*" />
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.For.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuNavegavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.MenuNavegavel" />
+    <configuration name="Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.For.Tabuada" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.*" />
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.For.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +137,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PorcentagemDeJuros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.PorcentagemDeJuros" />
+    <configuration name="Tabuada1a10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.For.Tabuada1a10" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.*" />
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.For.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreinandoFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.For.TreinandoFor" />
+      <module name="logica_com_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.For.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tabuada1a10" />
+        <item itemvalue="Application.TreinandoFor" />
+        <item itemvalue="Application.Tabuada" />
+        <item itemvalue="Application.ApresentarQuadrados" />
         <item itemvalue="Application.Login" />
-        <item itemvalue="Application.MenuNavegavel" />
-        <item itemvalue="Application.LacoDeRepeticao" />
-        <item itemvalue="Application.PorcentagemDeJuros" />
-        <item itemvalue="Application.DiaDaSemana" />
       </list>
     </recent_temporary>
   </component>
