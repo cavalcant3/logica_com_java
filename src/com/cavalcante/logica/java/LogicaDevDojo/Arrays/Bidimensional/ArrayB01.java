@@ -2,6 +2,7 @@ package com.cavalcante.logica.java.LogicaDevDojo.Arrays.Bidimensional;
 //esses são arrays multidimensionais
 public class ArrayB01 {
     public static void main(String[] args) {
+                                    //base  //coluna
         int [] [] arrayMulti = new int [2] [2];
         arrayMulti[0] [0] = 22;
         arrayMulti[0] [1] = 11;
