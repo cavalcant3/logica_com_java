@@ -97,13 +97,13 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
-  <component name="RunManager" selected="Application.Tabuada1a10">
-    <configuration name="ApresentarQuadrados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.For.ApresentarQuadrados" />
+  <component name="RunManager" selected="Application.Array02">
+    <configuration name="Array01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Arrays.Array01" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.For.*" />
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.Login" />
+    <configuration name="Array02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.logica.java.LogicaDevDojo.Arrays.Array02" />
       <module name="logica_com_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.SwitchCase.*" />
+          <option name="PATTERN" value="com.cavalcante.logica.java.LogicaDevDojo.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array02" />
+        <item itemvalue="Application.Array01" />
         <item itemvalue="Application.Tabuada1a10" />
         <item itemvalue="Application.TreinandoFor" />
         <item itemvalue="Application.Tabuada" />
-        <item itemvalue="Application.ApresentarQuadrados" />
-        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
