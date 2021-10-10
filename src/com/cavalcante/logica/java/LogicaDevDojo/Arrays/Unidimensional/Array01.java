@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java.LogicaDevDojo.Arrays;
+package com.cavalcante.logica.java.LogicaDevDojo.Arrays.Unidimensional;
 
 public class Array01 {
     public static void main(String[] args) {
