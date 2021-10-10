@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java.LogicaDevDojo;
+package com.cavalcante.logica.java.LogicaDevDojo.Básico;
 
 public class ImpostoOpLogico {
     public static void main(String[] args) {

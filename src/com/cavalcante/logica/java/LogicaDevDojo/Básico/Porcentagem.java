@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java.LogicaDevDojo;
+package com.cavalcante.logica.java.LogicaDevDojo.Básico;
 
 /*Calcular a porcentagem de um dado salário */
 

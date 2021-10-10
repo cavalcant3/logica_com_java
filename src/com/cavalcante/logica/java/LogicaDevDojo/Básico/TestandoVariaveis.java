@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java.LogicaDevDojo;
+package com.cavalcante.logica.java.LogicaDevDojo.Básico;
 
 public class TestandoVariaveis {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java.LogicaDevDojo;
+package com.cavalcante.logica.java.LogicaDevDojo.Básico;
 
 /* Criar um sistema de login e fazer a validação de dados */
 

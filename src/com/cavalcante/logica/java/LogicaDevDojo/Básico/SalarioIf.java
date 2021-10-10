@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java.LogicaDevDojo;
+package com.cavalcante.logica.java.LogicaDevDojo.Básico;
 /* Se o salario for maior que 4500 imprima 30%, senão imprima 15% */
 
 import java.util.Scanner;

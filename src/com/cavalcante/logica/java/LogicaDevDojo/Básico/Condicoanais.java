@@ -1,4 +1,4 @@
-package com.cavalcante.logica.java.LogicaDevDojo;
+package com.cavalcante.logica.java.LogicaDevDojo.Básico;
 /*Receber idade e mostrar se é maior ou menor */
 import java.util.Scanner;
 
