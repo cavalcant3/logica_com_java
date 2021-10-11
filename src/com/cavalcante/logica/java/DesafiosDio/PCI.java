@@ -24,10 +24,10 @@ public class PCI {
             for (int i = 0; i < M; i++) {
                 int Xi = leitor.nextInt();
                 int Yi = leitor.nextInt();
-                if (( Xi <= X && Yi <= Y ) || (Xi <= Y && Yi <= X)|| (   ))   //implemente sua lógica nos espaços em branco
+                if (( Xi <= X && Yi <= Y ) || (Xi <= Y && Yi <= X))   //implemente sua lógica nos espaços em branco
                     System.out.println("    Sim   ");
                 else
-                    System.out.println(" Não   ");
+                    System.out.println(" Nao   ");
             }
         }
     }
