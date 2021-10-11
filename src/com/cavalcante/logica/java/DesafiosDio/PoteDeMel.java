@@ -21,7 +21,6 @@ Para cada teste, a saída contém na primeira linha a mensagem "ALTURA = ", com 
 
 public class PoteDeMel {
     public static void main(String[] args) {
-        public static void main(String[] args) throws IOException {
             Scanner leitor = new Scanner(System.in);
             DecimalFormat df = new DecimalFormat("0.00");
             double V, D, R, area, altura;
